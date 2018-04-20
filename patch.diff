@@ -1,0 +1,23 @@
+From 0ad27d78d8732402c67e840baa8367ba75d66bd0 Mon Sep 17 00:00:00 2001
+From: "CGIL\\GuarientoA" <andrea.guariento@sintel.net>
+Date: Fri, 20 Apr 2018 14:43:03 +0200
+Subject: [PATCH] no message
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/README.md b/README.md
+index 61c0354..52c78f6 100644
+--- a/README.md
++++ b/README.md
+@@ -3,3 +3,5 @@ applicazione di prova
+ 
+ Prove di lavoro con git
+ questa è una modifica fatta nel branch 2
++
++xxxxx
+\ No newline at end of file
+-- 
+2.14.1.windows.1
+
